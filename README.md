@@ -20,5 +20,8 @@ http://jhipster.github.io/
 
 These threads are helpful:
 http://stackoverflow.com/questions/21736217/java-webapp-metrics-using-spring-injection
+
 https://objectpartners.com/2015/05/07/intelligent-microservice-metrics-with-spring-boot-and-statsd/
+
+http://www.mkyong.com/tomcat/jconsole-jmx-remote-access-on-tomcat/
 

@@ -18,3 +18,6 @@ https://blog.frankel.ch/become-a-devops-with-spring-boot
 This framework is also helpful:
 http://jhipster.github.io/
 
+These threads are helpful:
+http://stackoverflow.com/questions/21736217/java-webapp-metrics-using-spring-injection
+
